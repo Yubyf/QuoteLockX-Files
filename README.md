@@ -1,2 +1,3 @@
-# QuoteLockX-Files
-QuoteLockX releases
+# QuoteLockX Files
+
+Repo to host QuoteLockX releases

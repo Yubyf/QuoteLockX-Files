@@ -1,0 +1,8 @@
+{
+    "android": {
+        "versionCode": 27,
+        "versionName": "v3.1.0",
+        "link": "https://cdn.jsdelivr.net/gh/Yubyf/QuoteLockX-Files@master/releases/v3.1.0/QuoteLockX-v3.1.0.apk",
+        "changelog": "https://cdn.jsdelivr.net/gh/Yubyf/QuoteLockX-Files@master/releases/v3.1.0/changelog.md"
+    }
+}
