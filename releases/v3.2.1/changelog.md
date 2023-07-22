@@ -1,0 +1,13 @@
+## QuoteLockX v3.2.1
+
+### ChangeLog
+
+1. Since the OpenAI usage API(/v1/dashboard/billing/usage) is no longer available in July 22, the cost usage on the openai settings page has been replaced with token usage(statistics locally).
+
+2. Fixed the API key validation error caused by the same reason.
+
+### 更新日志
+
+1. 由于 OpenAI 用量 API(/v1/dashboard/billing/usage) 在7月22日起不再可用，因此 OpenAI 设置页面中的费用使用量已替换为 Token 使用量；
+
+2. 修复了由同样原因导致的 API 验证错误的问题。
